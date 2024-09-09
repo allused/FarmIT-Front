@@ -1,0 +1,36 @@
+.farm-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    width: 300px;
+    margin: 16px;
+  }
+  
+  .farm-card-header {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+  }
+  
+  .farm-card-header h3 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #333;
+  }
+  
+  .creation-date {
+    font-size: 0.9em;
+    color: #666;
+  }
+  
+  .farm-card-body p {
+    margin: 8px 0;
+    font-size: 1.1em;
+    color: #555;
+  }
+  
+  .farm-card-body strong {
+    color: #333;
+  }
